@@ -19,7 +19,7 @@
 ## Installation 🐌
 
 ```
-- free download the script from my tebex.store (link down below ↓)
+- download the script from my tebex.store (link down below ↓)
 - unzip the file → mrm-safePunch
 - place it somewhere in your server's resource folder
 ```
