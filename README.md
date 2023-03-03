@@ -1,4 +1,4 @@
-# **Disable Accidental Punch** 🤛🏽❌ [Standalone-FiveM-Script]
+# **Disable Accidental Punch** 🤛🏽❌ [Free-FiveM-Script]
 ### Are you getting hit/punched by other players unintentionally? 👊🏽😕
 
 ### Just because they pressed the left mouse button? No Worries! 🤗💦 I got you.
@@ -19,7 +19,7 @@
 ## Installation 🐌
 
 ```
-- download the script from my tebex.store (link down below ↓)
+- free download the script from my tebex.store (link down below ↓)
 - unzip the file → mrm-safePunch
 - place it somewhere in your server's resource folder
 ```
@@ -34,7 +34,7 @@
 
 ---
 ## 🌎 [Download](https://mrm.tebex.io/package/5497215) :
-> You can download the script from my **[Tebex Store](https://mrm.tebex.io/package/5497215)**.
+> You can free download the script from my **[Tebex Store](https://mrm.tebex.io/package/5497215)**.
 
 ---
 <details>
