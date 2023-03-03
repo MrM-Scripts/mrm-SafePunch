@@ -1,4 +1,4 @@
-# **Disable Accidental Punch** 🤛🏽❌ [FREE-FiveM-Script]
+# **Disable Accidental Punch** 🤛🏽❌ [Standalone-FiveM-Script]
 ### Are you getting hit/punched by other players unintentionally? 👊🏽😕
 
 ### Just because they pressed the left mouse button? No Worries! 🤗💦 I got you.
@@ -34,7 +34,7 @@
 
 ---
 ## 🌎 [Download](https://mrm.tebex.io/package/5497215) :
-> You can free download the script from my **[Tebex Store](https://mrm.tebex.io/package/5497215)**.
+> You can download the script from my **[Tebex Store](https://mrm.tebex.io/package/5497215)**.
 
 ---
 <details>
